@@ -1,0 +1,7 @@
+{
+  "zone": {
+    "share": "moose",
+    "quota": 1000,
+    "usage": 50,
+ }
+}

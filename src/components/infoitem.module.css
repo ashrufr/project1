@@ -1,0 +1,54 @@
+.item {
+   background-color: #ddd;
+   width: 700px;
+   box-shadow: 4px 4px #ccc;
+   margin-top: 20px;
+   margin-left: 10px;
+   font-size: 11px;
+}
+
+table {
+   width: 100%;
+   background-color:white;
+   border: 1px solid #ccc;
+   margin-top: 5px;
+}
+
+th {
+   background-color: black;
+   color: white;
+   border: 0px solid black;
+   font-size: 11px;
+}
+
+tr {
+   background-color: white;
+   color: black;
+   border: 0px solid black;
+   font-size: 11px;
+   padding: auto;
+}
+
+tr:hover {
+   background-color: red;
+   cursor: pointer;
+   border: 1px solid #ccc;
+}
+
+.trsystem:hover {
+   background-color: white;
+   color: black;
+}
+
+.itemhead {
+   background-color:#ccc;
+   top: 0px;
+   margin-top: 0px;
+
+}
+
+.itemval {
+   display: flex;
+   flex-flow: col;
+
+}

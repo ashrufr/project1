@@ -7,7 +7,7 @@
   "dependencies": {
     "@antv/g2plot": "1.1.6",
     "@opd/g2plot-react": "1.5.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-scripts": "3.0.1"
